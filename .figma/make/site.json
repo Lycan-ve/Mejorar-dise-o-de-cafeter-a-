@@ -1,0 +1,10 @@
+{
+  "description": "An online coffee shop where customers can explore a menu, discover coffee favorites, and conveniently place orders.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
